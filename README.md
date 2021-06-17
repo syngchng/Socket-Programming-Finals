@@ -6,10 +6,12 @@ UDP 소켓을 이용한 Mac OS Terminal - Mac iTerm2 간의 채팅 서버 기능
 
 # 목적
 원래는 윈도우와 맥 터미널 간의 채팅 서버를 구현하고자 하였으나 두 OS 간의 차이점과 접근 권한, 버전 등 어려움이 너무 많았고,<br>
-이에 따라 올려놓은 코드의 기능을 tKinter (파이썬 GUI) 창을 이용할 수 있도록 구현하고자 하였으나<br>
-아래와 같이 겉모습은 나오는데 <br><br>
+이에 따라 올려놓은 코드의 기능을 tKinter (파이썬 GUI) 창을 이용할 수 있도록 구현하고자 하였으나<br><br>
+
 <img width="466" alt="Screenshot 2021-06-17 at 23 59 14" src="https://user-images.githubusercontent.com/74042902/122422518-2c629880-cfc8-11eb-989e-35764b72747e.png"><br>
 <img width="470" alt="Screenshot 2021-06-17 at 23 59 28" src="https://user-images.githubusercontent.com/74042902/122422565-371d2d80-cfc8-11eb-9490-d5c16be63a1f.png"><br><br>
+위와 같이 겉모습은 나오지만 <br>
+
 아래와 같은 내용의 에러를 지속적으로 만났고<br><br>
 <img width="609" alt="Screenshot 2021-06-17 at 23 59 34" src="https://user-images.githubusercontent.com/74042902/122422668-4a2ffd80-cfc8-11eb-9d06-744db5df459b.png"><br><br>
 결국 해결하지 못한 관계로 성공한 코드에 대해서 먼저 설명드리도록 하겠습니다.<br><br>
