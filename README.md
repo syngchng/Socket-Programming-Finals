@@ -28,6 +28,9 @@ FROM (상대방) : <메세지>
 
 # 실행 화면
 
+iTerm2
 <img width="573" alt="Screenshot 2021-06-17 at 22 39 55" src="https://user-images.githubusercontent.com/74042902/122410517-f2d95f80-cfbe-11eb-8ee7-498f0551cff2.png">
+
+Terminal
 <img width="659" alt="Screenshot 2021-06-17 at 22 40 26" src="https://user-images.githubusercontent.com/74042902/122410525-f53bb980-cfbe-11eb-8946-a58bc153a3af.png">
 
