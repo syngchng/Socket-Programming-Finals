@@ -23,16 +23,16 @@ FROM (상대방) : <메세지>
 
 # 차이점
 기존 수업에서 한 클라이언트 사용자의 메세지를 미러링하는 코드와는 달리
-해당 코드는 양 쪽에서 서로 메세지를 주고받는 것을 확인할 수 있다.
+해당 코드는 양 쪽에서 서로 메세지를 주고받는 것을 확인할 수 있다. <br><br>
 <img width="1018" alt="Screenshot 2021-06-17 at 22 39 33" src="https://user-images.githubusercontent.com/74042902/122410485-ece37e80-cfbe-11eb-8cd2-8ab8deac4cf6.png">
 
 # 실행 화면
 
 iTerm2
-<br>
-<img width="573" alt="Screenshot 2021-06-17 at 22 39 55" src="https://user-images.githubusercontent.com/74042902/122410517-f2d95f80-cfbe-11eb-8ee7-498f0551cff2.png"><br>
+<br><br>
+<img width="573" alt="Screenshot 2021-06-17 at 22 39 55" src="https://user-images.githubusercontent.com/74042902/122410517-f2d95f80-cfbe-11eb-8ee7-498f0551cff2.png"><br><br>
 
 Terminal
-<br>
+<br><br>
 <img width="659" alt="Screenshot 2021-06-17 at 22 40 26" src="https://user-images.githubusercontent.com/74042902/122410525-f53bb980-cfbe-11eb-8946-a58bc153a3af.png"><br>
 
