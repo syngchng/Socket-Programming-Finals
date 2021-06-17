@@ -18,7 +18,7 @@ UDP 소켓을 이용한 Mac OS Terminal - Mac iTerm2 간의 채팅 서버 기능
 형식으로 뜹니다. <br><br>
 
 이와 같은 방식으로 메세지를 주고받다가, 어느 한 쪽이 q나 Q를 입력하여 접속을 종료할 시에는 <br>
-  상대방 쪽에 <code>( 상대방 ) WENT OFFLINE </code> 이라는 문구가 뜹니다.<br><br>
+  상대방 쪽에 <code>( 상대방 ) WENT OFFLINE</code> 이라는 문구가 뜹니다.<br><br>
 
 
 # 차이점
